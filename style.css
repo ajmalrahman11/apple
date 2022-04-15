@@ -22,9 +22,6 @@
     list-style-type: none;
     font-size: 13px;
 }
-body {
-  overflow-x: hidden;
-}
 .footer-list-categories a{
     text-decoration: none;
     color: #5e6063;
@@ -61,6 +58,9 @@ body {
 .main-head{
     margin-top: 8%;
 }
+body {
+    overflow-x: hidden;
+  }
 .logo-design{
     padding-left: 10%;
     width: 20%;
